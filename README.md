@@ -1,3 +1,6 @@
+José Enrique Gutiérrez Ramírez
+231.101.041
+
 Classificação de Imagens de Estéril e Mineral
 
 Objetivo
