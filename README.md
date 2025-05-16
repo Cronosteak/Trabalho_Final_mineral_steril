@@ -1,6 +1,6 @@
-José Enrique Gutiérrez Ramírez
+# José Enrique Gutiérrez Ramírez
 
-231.101.041
+# 231.101.041
 
 ## Classificação de Imagens de Estéril e Mineral
 
@@ -8,9 +8,9 @@ José Enrique Gutiérrez Ramírez
 Este projeto tem como objetivo desenvolver e treinar um modelo de inteligência artificial capaz de distinguir automaticamente imagens de material estéril e mineral proveniente de operações de mineração. A iniciativa visa automatizar a triagem visual de amostras geológicas, auxiliando na melhoria da eficiência operacional e na redução de erros humanos no processo de classificação de materiais extraídos.
 
 ## Metodologia
-O trabalho foi estruturado nas seguintes etapas:
+# O trabalho foi estruturado nas seguintes etapas:
 
-Coleta e Organização das Imagens
+# Coleta e Organização das Imagens
 As imagens foram organizadas em um diretório denominado model_1, contendo duas subpastas: mineral e esteril, correspondentes às classes alvo do modelo.
 
 ## Pré-processamento
